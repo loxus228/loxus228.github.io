@@ -5,4 +5,4 @@
 _бот_   
 [крутая песня](https://www.youtube.com/watch?v=d8IJpspU2m0)     
   
-![понос](https://github.com/jon/coolproject/raw/master/image/image.png)    
+![понос](relative/path/to/img.jpg?raw=true "Title")    
