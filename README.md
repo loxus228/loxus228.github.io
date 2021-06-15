@@ -11,7 +11,7 @@
 # [инстасылка](https://www.instagram.com/tomiris_doll/)
 
 
-![gg]()
+![gg](https://github.com/loxus228/loxus228.github.io/blob/main/%D1%80%D0%B0%D0%BC%D0%BE%D0%BD%D0%B0.jpg)
 
 
 
