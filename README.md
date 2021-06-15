@@ -8,7 +8,7 @@
 Постоянный доступ к материалам и чат поддержки в телеграмм.
 
 
- [инстасыла](https://www.youtube.com/watch?v=d8IJpspU2m0)
+ [инстасыла](https://www.instagram.com/tomiris_doll/)
 
 
 # **лох**    
